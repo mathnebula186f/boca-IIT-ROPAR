@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.App {
+  /* text-align: center; */
+  z-index: 3;
+  /* background-color: #8EC33D; */
+}
+
+.section {
+  /* padding: 40px; */
+  margin-bottom: 20px;
+  /* padding-top: 150px; */
+  z-index: 1;
+  /* background-color: #8EC33D; */
+}

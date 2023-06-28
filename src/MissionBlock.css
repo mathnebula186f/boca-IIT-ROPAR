@@ -1,0 +1,50 @@
+.mission-block {
+    text-align: center;
+    background-color: #8EC33D;
+    padding: 40px;
+    color: #fff;
+    border-radius: 10px;
+    /* Add this line to make the edges rounded */
+    margin-left: 20px;
+    margin-right: 20px;
+    opacity: 1;
+    border:20px solid rgba(0, 0, 0, 0.5);
+    opacity: 1;
+    animation: fadeInUp 1s ease-in-out;
+}
+
+.mission-block:hover{
+    border: 20px solid rgba(0, 0, 0, 0.55);
+    /* transition: border 1s ease-in-out; */
+    /* tra; */
+}
+.mission-block h2 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    animation: fadeInUp 1s ease-in-out;
+}
+.mission-block:hover h2{
+    transform: translateY(-20%);
+    transition:transform 0.5s ease-in-out ;
+}
+.mission-block p {
+    font-size: 18px;
+    margin-bottom: 30px;
+    animation: fadeInUp 1s ease-in-out;
+}
+.mission-block:hover p{
+    transform:translateY(20%);
+    transition: transform 0.5s ease-in-out;
+}
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
