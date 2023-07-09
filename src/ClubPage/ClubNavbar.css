@@ -1,0 +1,48 @@
+.menu-icon {
+    display: none;
+    cursor: pointer;
+}
+
+.menu-icon span {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin-bottom: 5px;
+    background-color: #000000;
+    /* Adjust icon color as needed */
+    transition: transform 0.3s ease-in-out;
+}
+
+.menu-icon.open span:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 6px);
+}
+
+.menu-icon.open span:nth-child(2) {
+    opacity: 0;
+}
+
+.menu-icon.open span:nth-child(3) {
+    transform: rotate(-45deg) translate(5px, -6px);
+}
+
+@media screen and (max-width: 768px) {
+    .navbar-container {
+        flex-direction: column;
+    }
+
+    .logo-container {
+        margin-bottom: 10px;
+    }
+
+    .menu-icon {
+        display: block;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    .menu.open {
+        display: block;
+    }
+}

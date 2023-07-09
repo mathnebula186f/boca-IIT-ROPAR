@@ -1,30 +1,19 @@
 import React from "react";
-import "./App.css";
-import Navbar from "./Navbar";
-import Carousel from "./Carousel";
-import MissionBlock from "./MissionBlock";
-import GenSecVision from "./GenSecVision";
-import GallerySection from "./GallerySection";
-import Footer from "./Footer";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import HomePage from "./HomePage/HomePage";
+import ClubTemplate from "./ClubPage/ClubTemplate";
+import NotFoundPage from "./NotFoundPage"; // Optional: Add a not found page component
 
 function App() {
   return (
-    <div className="App">
-      <Navbar />
-      <div className="section">
-        <Carousel />
-      </div>
-      <div className="section">
-        <MissionBlock />
-      </div>
-      <div className="section">
-        <GenSecVision />
-      </div>
-      <div className="section">
-        <GallerySection />
-      </div>
-      <Footer />
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/:clubName" element={<ClubTemplate />} />
+        <Route path="*" element={<NotFoundPage />} />{" "}
+        {/* Optional: Show a not found page for unknown URLs */}
+      </Routes>
+    </Router>
   );
 }
 

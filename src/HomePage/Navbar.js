@@ -20,6 +20,11 @@ const Navbar = () => {
     setClubMenuOpen(!isClubMenuOpen);
   };
 
+  //Images
+  const alankarLogo =
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK";
+
+
   return (
     <nav className="navbar">
       <div className="navbar-container">
