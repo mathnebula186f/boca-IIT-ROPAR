@@ -1,0 +1,118 @@
+{
+  "Name": "Dcypher",
+  "FieldName":"Dance",
+  "bgColor":"",
+  "LogoSrc": "https://drive.google.com/uc?export=view&id=1mEjlPnZDJ6emvNukYm6vl5bgYGBhsVAn",
+  "description": "This is the Chess Club at our university. We promote chess as a sport and organize tournaments and workshops for chess enthusiasts.",
+  "Team": [
+    {
+      "Name": "Vedang",
+      "Post": "Representative",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1myUqeSPK26pAVWEdls8vjy_e2mB9bloW",
+      "InstaHandle":"https://instagram.com/vs_sakpal_722?igshid=ZDc4ODBmNjlmNQ==",
+      "LinkedInHandle":"https://www.linkedin.com/in/vedang-sakpal-48b339257/"
+    },
+    {
+      "Name": "Kirtdeep",
+      "Post": "Secretary",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1Iq00wRTUWjhVeMj19uWuJiZ0VWkQPCav",
+      "InstaHandle":"https://instagram.com/pannukirtdeep?igshid=ZDc4ODBmNjlmNQ==",
+      "LinkedInHandle":"https://www.linkedin.com/in/kirtdeep-kaur-aa16a7228"
+    },
+    {
+      "Name": "Pratibha",
+      "Post": "Advisor",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1PlVfRi1FF7MolsOY4VvF5Pb34VPqUp3P",
+      "InstaHandle":"https://instagram.com/pratibha._.09?igshid=MzNlNGNkZWQ4Mg==",
+      "LinkedInHandle":"https://www.linkedin.com/in/pratibha-garg-86952b248"
+    },
+    {
+      "Name": "Shravan",
+      "Post": "Advisor",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=13RewXhBtQ3fcczDaNeRRc9xmzBbVhoq_",
+      "InstaHandle":"https://www.instagram.com/shravanjindal.official/",
+      "LinkedInHandle":"https://www.linkedin.com/mwlite/in/shravan-jindal-23068327a"
+    },
+    {
+      "Name": "Asmita",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1XI1Cx-EE9uY-1rrn8-gDGed4VjGKQJ1F",
+      "InstaHandle":"https://instagram.com/_asmitaa_bera_?igshid=MmIzYWVlNDQ5Yg==",
+      "LinkedInHandle":"https://www.linkedin.com/in/asmita-bera-a268a025a/"
+    },
+    {
+      "Name": "Sahil",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1elI98ODS1jW4fNOIAcoAnQvZyxUixywj",
+      "InstaHandle":"https://instagram.com/_sahil_018?igshid=MzNlNGNkZWQ4Mg==",
+      "LinkedInHandle":"https://www.linkedin.com/in/manasvi-swarnkar-3a3a0825a"
+    },
+    {
+      "Name": "Manasvi",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1gn56GXlHsyIXMwycC0ACKlR4U_6lmvG4",
+      "InstaHandle":"https://instagram.com/manasvi_115?igshid=MzNlNGNkZWQ4Mg==",
+      "LinkedInHandle":"https://www.linkedin.com/in/manasvi-swarnkar-3a3a0825a"
+    },
+    {
+      "Name": "Tilak",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1V6oKV779_pnQBdL9Z6AVtHcj8yhuXqR0",
+      "InstaHandle":"https://instagram.com/tilak_sanghvi?igshid=NGExMmI2YTkyZg==",
+      "LinkedInHandle":"https://www.linkedin.com/in/tilak-sanghvi-b5a290194"
+    },
+    {
+      "Name": "Tarushi",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1G2eAKJTx0tfxRM1YRt-8knX1a9K32HZz",
+      "InstaHandle":"https://www.instagram.com/tarushi_taneja23/",
+      "LinkedInHandle":"https://www.linkedin.com/in/tarushi-taneja-658b0724a/"
+    },
+    {
+      "Name": "Shivam",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1wp1oUF4xWamZjlxXtgD-LNOoaNiUSkc5",
+      "InstaHandle":"https://instagram.com/shivamverma_117?igshid=MmIzYWVlNDQ5Yg==",
+      "LinkedInHandle":"https://www.linkedin.com/in/shivam-verma-b8ba10258"
+    }
+    
+  ],
+  "InfoHeading":"Our Vision",
+  "InfoPoints": [
+    "Pursuing the highest level of dance quality and creativity",
+    "Embracing dancers from varied backgrounds and cultures",
+    " Cultivating an active and lively dance environment on campus",
+    "Guiding dancers to discover and develop their full potential",
+    "Constantly exploring new choreography, music, and styles.",
+    "Constantly exploring new choreography, music, and styles.",
+    "Fostering growth in artistry, physicality, and community engagement"
+  ],
+  "Images": [
+    "https://drive.google.com/uc?export=view&id=1agl6bPCb52abJShHln9OgMyhCHzg_Wno",
+    "https://drive.google.com/uc?export=view&id=1atMhD1q6A05GyH444sO97sHibCvS7ZA1",
+    "https://drive.google.com/uc?export=view&id=1am_K2zrpExTA1KhKqyuAddIvpkiMUsCY",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK"
+    
+  ],
+  "TeamImages":[
+    "https://drive.google.com/uc?export=view&id=1ZP9ZZMQD2N070Fubw84XiHGrxvu5g1O2",
+    "https://drive.google.com/uc?export=view&id=16WeTKMT1vublXjaWoTcOaf2Pcb-RZqcu",
+    "https://drive.google.com/uc?export=view&id=1w3qLwvuEXixg0jjEoZOxVTU2ztnB-dus",
+    "https://drive.google.com/uc?export=view&id=1voIo18Xytu6MpIjlVoCPv1I5i8fHyfII",
+    "https://drive.google.com/uc?export=view&id=1y33pY-TC0DPqWzMZTr0KyZQ6-67IMKdQ",
+    "https://drive.google.com/uc?export=view&id=1XcH94IVp5a2PUboTqr3PSfjMHfIalTfZ",
+    "https://drive.google.com/uc?export=view&id=1vSbGDOUiJvoVrTCgae6iFoIrJ2TbBf4U",
+    "https://drive.google.com/uc?export=view&id=1WW21iS4P80OB36LOj5CNFrzRkjnkQfFB",
+    "https://drive.google.com/uc?export=view&id=1F83v9ypml9nPk39ZCIwUUYNt7elRzNtG"
+  ],
+  "ClubQoute" :[
+    "Where Rhythm Meets euphoria"
+  ]
+ 
+}

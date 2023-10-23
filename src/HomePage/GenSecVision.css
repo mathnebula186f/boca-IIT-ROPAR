@@ -93,11 +93,15 @@
 }
 .profile-pic {
     width: 200px;
-    height: 250px;
+    height: 200px;
     border-radius: 50%;
     display: inline-block;
     animation: fadeInUp 1s ease-in-out;
+    object-fit: cover;
     /* align-items: cn; */
+}
+.profile-pic img{
+    /* object-fit: cover; */
 }
 
 .general-sec-vision:hover .profile-pic{

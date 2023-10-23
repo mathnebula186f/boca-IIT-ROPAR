@@ -8,8 +8,8 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="/:clubName" element={<ClubTemplate />} />
+        <Route exact path="/" element={<HomePage />} />
+        <Route exact path="/:clubName" element={<ClubTemplate />} />
         <Route path="*" element={<NotFoundPage />} />{" "}
         {/* Optional: Show a not found page for unknown URLs */}
       </Routes>

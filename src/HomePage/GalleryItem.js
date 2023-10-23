@@ -1,5 +1,5 @@
 import React from "react";
-import "./GalleryItem.css";
+// import "./GalleryItem.css";
 
 const GalleryItem = ({ imageSrc, onClick }) => {
   return (

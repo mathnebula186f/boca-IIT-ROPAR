@@ -7,10 +7,12 @@ import GenSecVision from "./GenSecVision";
 import GallerySection from "./GallerySection";
 import Footer from "./Footer";
 
-function App() {
+function HomePage() {
   return (
     <div className="App">
-      <Navbar />
+      <div style={{position:'fixed',zIndex:'99', width:'100%'}}>
+        <Navbar />
+      </div>
       <div className="section">
         <Carousel />
       </div>
@@ -28,4 +30,4 @@ function App() {
   );
 }
 
-export default App;
+export default HomePage;

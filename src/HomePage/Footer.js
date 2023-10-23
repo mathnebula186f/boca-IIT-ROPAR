@@ -12,14 +12,14 @@ const Footer = () => {
         </div>
         <div className="social-icons">
           <a
-            href="https://www.instagram.com/your_instagram"
+            href="https://www.instagram.com/yaaimgopalbansal/"
             target="_blank"
             rel="noopener noreferrer"
           >
             <img src={instagramIcon} alt="Instagram" />
           </a>
           <a
-            href="https://www.facebook.com/your_facebook"
+            href="https://www.linkedin.com/in/gopal-bansal-a4050b229/"
             target="_blank"
             rel="noopener noreferrer"
           >

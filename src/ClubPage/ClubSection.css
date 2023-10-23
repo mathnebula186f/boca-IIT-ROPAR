@@ -1,0 +1,116 @@
+.club-section {
+    /* background-color: #f2f2f2; */
+    padding: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    font-family: "Montserrat", sans-serif;
+}
+
+.left-column {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* text-align: left; */
+}
+
+.upper-row {
+    /* background-color: #f2f2f2; */
+    padding: 20px;
+    border-radius: 10px 10px 0 0;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.lower-row {
+    /* background-color: #f2f2f2; */
+    padding: 20px;
+    border-radius: 0 0 10px 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.right-column {
+    /* background-color: #f2f2f2; */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.club-info {
+    text-align: center;
+}
+.club-info h2{
+    font-weight: bold;
+}
+
+.club-logo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 20px auto;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.carousel-container {
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    min-height: fit-content;
+    height: 800px;
+    /* flex-basis: calc(33.33% - 20px); */
+}
+
+.right-column img{
+    object-fit: cover;
+    width: 100%;
+    height:800px;
+    /* max-height: fit-content; */
+    /* height:fit-content;
+    cursor:pointer;
+    flex-basis: calc(33.33% - 20px);
+    overflow: hidden; */
+}
+
+
+
+.club-achievements {
+    position: relative;
+    overflow: hidden;
+
+    /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
+}
+
+.club-achievements h3 {
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.club-achievements ul {
+    list-style: none;
+    padding: 0;
+    position: relative;
+    animation: fadeInUp 1s ease-in-out;
+}
+
+.club-achievements li {
+    margin-bottom: 5px;
+    position: relative;
+    animation: fadeInUp 1s ease-in-out;
+    animation-delay: 0.2s;
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Add additional styles for your carousel component here */

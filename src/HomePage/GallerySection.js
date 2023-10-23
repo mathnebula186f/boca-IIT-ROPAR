@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import "./GallerySection.css";
 import GalleryItem from "./GalleryItem";
+// import "./GalleryItem.css"
 
 import image1 from "./images/image1.jpg";
 import image2 from "./images/image2.jpg";
@@ -17,6 +18,7 @@ const GallerySection = () => {
     setSelectedImage(null);
   };
 
+  console.log(selectedImage)
   return (
     <div className="gallery-section">
       <h2>Gallery</h2>
@@ -35,10 +37,10 @@ const GallerySection = () => {
         />
       </div>
       <div className="more-button">
-        <a href="/gallery">View More</a>
+        <a href="/Gallery">View More</a>
       </div>
 
-      {selectedImage && (
+      {selectedImage!=null && (
         <div className="modal" onClick={handleCloseModal}>
           <span className="close">&times;</span>
           <img className="modal-content" src={selectedImage} alt="Selected" />

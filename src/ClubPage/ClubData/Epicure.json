@@ -1,0 +1,92 @@
+{
+  "Name": "Epicure",
+  "FieldName":"Cookery",
+  "bgColor":"",
+  "LogoSrc": "https://drive.google.com/uc?export=view&id=1wgu2Dd-awuF5ySYSyROqEV5y2r9iKh8W",
+  "description": "This is the Chess Club at our university. We promote chess as a sport and organize tournaments and workshops for chess enthusiasts.",
+  "Team": [
+    {
+      "Name": "Anusha",
+      "Post": "Representative",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1Bb39hX3x6p90H77dZYpNKwPs2hCOdehk",
+      "InstaHandle":"https://instagram.com/anusha_khare_03?igshid=MjEwN2IyYWYwYw==",
+      "LinkedInHandle":"https://www.linkedin.com/in/gopal-bansal-a4050b229/"
+    },
+    {
+      "Name": "Chamanjot",
+      "Post": "Secretary",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1ZehaQEKZgq0WN8PH1gKVMRoH2oF9lJJ1",
+      "InstaHandle":"https://instagram.com/chaman_jot_?igshid=MjEwN2IyYWYwYw==",
+      "LinkedInHandle":"https://www.linkedin.com/in/gopal-bansal-a4050b229/"
+    },
+    {
+      "Name": "Aditya",
+      "Post": "Advisor",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1bcwe1JCvUTOD4ZiZOmpgwbAgsC4yb6Rl",
+      "InstaHandle":"https://instagram.com/aditya.jha.aj?igshid=MjEwN2IyYWYwYw==",
+      "LinkedInHandle":"https://www.linkedin.com/in/gopal-bansal-a4050b229/"
+    },
+    {
+      "Name": "Shrabanti",
+      "Post": "Advisor",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1vRjlesKqRhzYfpZoSASTftr5k2jwiOUB",
+      "InstaHandle":"https://instagram.com/shrabanti25?igshid=MjEwN2IyYWYwYw==",
+      "LinkedInHandle":"https://www.linkedin.com/in/gopal-bansal-a4050b229/"
+    },
+    {
+      "Name": "Anshul",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1T6Swpl6XIDVD6zjP3_Ef82-j75SZYJco",
+      "InstaHandle":"https://instagram.com/anshulbadhan?igshid=MjEwN2IyYWYwYw==",
+      "LinkedInHandle":"https://www.linkedin.com/in/gopal-bansal-a4050b229/"
+    },
+    {
+      "Name": "Ansh",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1hn1P9evQVaMBWWTIthrlXM8DtxxZU882",
+      "InstaHandle":"https://instagram.com/ansh_raj_0403?igshid=MjEwN2IyYWYwYw==",
+      "LinkedInHandle":"https://www.linkedin.com/in/gopal-bansal-a4050b229/"
+    },
+    {
+      "Name": "Arnav",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1dBaS_Ms7GsbwVFSsVy7AVZGCZHe9xWEB",
+      "InstaHandle":"https://instagram.com/arnavmaitrey?igshid=MjEwN2IyYWYwYw==",
+      "LinkedInHandle":"https://www.linkedin.com/in/gopal-bansal-a4050b229/"
+    }
+  
+  ],
+  "InfoHeading":"Our Achievements",
+  "InfoPoints": [
+    "Inter IIT Cultural Meet 5.0--TAG TEAM- 3rd position",
+    "Pan IIT Cooking Competition--SAVORY- 3rd position"
+  ],
+  "Images": [
+    "https://drive.google.com/uc?export=view&id=1IACi6e7gU0qXNRPtdtba27oVzHCzJ1rh",
+    "https://drive.google.com/uc?export=view&id=1eaN8gigvFBHcGJJS13bI9WVS2GZfuDR3",
+    "https://drive.google.com/uc?export=view&id=1M5cgrYbuDMbJ1vh71rj8WxZK6AeYqPay",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK"
+    
+  ],
+  "TeamImages":[
+    "https://drive.google.com/uc?export=view&id=1ZP9ZZMQD2N070Fubw84XiHGrxvu5g1O2",
+    "https://drive.google.com/uc?export=view&id=16WeTKMT1vublXjaWoTcOaf2Pcb-RZqcu",
+    "https://drive.google.com/uc?export=view&id=1w3qLwvuEXixg0jjEoZOxVTU2ztnB-dus",
+    "https://drive.google.com/uc?export=view&id=1voIo18Xytu6MpIjlVoCPv1I5i8fHyfII",
+    "https://drive.google.com/uc?export=view&id=1y33pY-TC0DPqWzMZTr0KyZQ6-67IMKdQ",
+    "https://drive.google.com/uc?export=view&id=1XcH94IVp5a2PUboTqr3PSfjMHfIalTfZ",
+    "https://drive.google.com/uc?export=view&id=1vSbGDOUiJvoVrTCgae6iFoIrJ2TbBf4U",
+    "https://drive.google.com/uc?export=view&id=1WW21iS4P80OB36LOj5CNFrzRkjnkQfFB",
+    "https://drive.google.com/uc?export=view&id=1F83v9ypml9nPk39ZCIwUUYNt7elRzNtG"
+  ],
+  "ClubQoute" :[
+    "<ClubQoute>"
+  ]
+ 
+}

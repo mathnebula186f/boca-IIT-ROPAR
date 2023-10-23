@@ -1,5 +1,6 @@
 .App {
     text-align: center;
+    z-index: 3;
 }
 
 .App-logo {
@@ -36,12 +37,6 @@
     to {
         transform: rotate(360deg);
     }
-}
-
-.App {
-    /* text-align: center; */
-    z-index: 3;
-    /* background-color: #8EC33D; */
 }
 
 .section {

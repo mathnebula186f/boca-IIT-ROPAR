@@ -1,0 +1,111 @@
+{
+  "Name": "Alankar",
+  "FieldName":"Music",
+  "bgColor":"'#f2f2'",
+  "LogoSrc": "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+  "description": "This is the Chess Club at our university. We promote chess as a sport and organize tournaments and workshops for chess enthusiasts.",
+  "Team": [
+    {
+      "Name": "Kratin",
+      "Post": "Representative",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1ZP9ZZMQD2N070Fubw84XiHGrxvu5g1O2",
+      "InstaHandle":"https://instagram.com/__kratin18?igshid=MzNlNGNkZWQ4Mg==",
+      "LinkedInHandle":"https://www.linkedin.com/in/kratin-sharma-07018225b"
+    },
+    {
+      "Name": "Jaydeep",
+      "Post": "Advisor",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=16WeTKMT1vublXjaWoTcOaf2Pcb-RZqcu",
+      "InstaHandle":"https://www.instagram.com/jaydeepupadhyay2828/",
+      "LinkedInHandle":"https://www.linkedin.com/in/gopal-bansal-a4050b229/"
+    },
+    {
+      "Name": "Hiten",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1w3qLwvuEXixg0jjEoZOxVTU2ztnB-dus",
+      "InstaHandle":"https://instagram.com/hiten_goel05?igshid=NGExMmI2YTkyZg==",
+      "LinkedInHandle":"https://www.linkedin.com/in/hiten-goel-003599250"
+    },
+    {
+      "Name": "Anurag",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1voIo18Xytu6MpIjlVoCPv1I5i8fHyfII",
+      "InstaHandle":"https://instagram.com/4nur49_4mch1?igshid=MzNlNGNkZWQ4Mg==",
+      "LinkedInHandle":"https://www.linkedin.com/in/anurag-amchi-b46604259/"
+    },
+    {
+      "Name": "Chahat",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1y33pY-TC0DPqWzMZTr0KyZQ6-67IMKdQ",
+      "InstaHandle":"https://www.instagram.com/yaaimgopalbansal/",
+      "LinkedInHandle":"https://www.linkedin.com/in/chahat-64448325a"
+    },
+    {
+      "Name": "Siddharth",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1XcH94IVp5a2PUboTqr3PSfjMHfIalTfZ",
+      "InstaHandle":"https://www.instagram.com/siddharthsingh11__/",
+      "LinkedInHandle":"https://www.linkedin.com/in/gopal-bansal-a4050b229/"
+    },
+    {
+      "Name": "Abhinav",
+      "Post": "Cordiantor",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1vSbGDOUiJvoVrTCgae6iFoIrJ2TbBf4U",
+      "InstaHandle":"https://www.instagram.com/abhinavv_20/",
+      "LinkedInHandle":"https://www.linkedin.com/in/abhinav-vasu-b57560250/"
+    },
+    {
+      "Name": "Madhav",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1WW21iS4P80OB36LOj5CNFrzRkjnkQfFB",
+      "InstaHandle":"https://www.instagram.com/madhav_bareja/",
+      "LinkedInHandle":"https://www.linkedin.com/in/madhav-bareja-a86742269/"
+    },
+    {
+      "Name": "Sailee",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1F83v9ypml9nPk39ZCIwUUYNt7elRzNtG",
+      "InstaHandle":"https://www.instagram.com/sai_gem_12/",
+      "LinkedInHandle":"https://www.linkedin.com/in/sailee-dalal-a95172253/"
+    }
+  
+  ],
+  "InfoHeading":"Our Vision",
+  "InfoPoints": [
+    "Create a vibrant and inclusive community through the power of music",
+    "Enrich the lives of all participants by transcending boundaries",
+    "Foster a nurturing environment that encourages creativity and collaboration",
+    "Promote personal growth and development within the music community",
+    "Unite people from diverse backgrounds through the transformative power of music",
+    "Ignite a lifelong love for music in all members",
+    "Establish a lasting legacy that resonates within the hearts of our institute community for years to come"
+  ],
+  "Images": [
+    "https://drive.google.com/uc?export=view&id=1jBhP_ll7JbKvjR25mOUcdeEE92wcDr1g",
+    "https://drive.google.com/uc?export=view&id=12RH6s98faD_iSEcZrTice4Jmh0ILddJB",
+    "https://drive.google.com/uc?export=view&id=176OR0wt6_LEYy-HW5bJmZdnqZHrPqJZG",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK"
+    
+  ],
+  "TeamImages":[
+    "https://drive.google.com/uc?export=view&id=1ZP9ZZMQD2N070Fubw84XiHGrxvu5g1O2",
+    "https://drive.google.com/uc?export=view&id=16WeTKMT1vublXjaWoTcOaf2Pcb-RZqcu",
+    "https://drive.google.com/uc?export=view&id=1w3qLwvuEXixg0jjEoZOxVTU2ztnB-dus",
+    "https://drive.google.com/uc?export=view&id=1voIo18Xytu6MpIjlVoCPv1I5i8fHyfII",
+    "https://drive.google.com/uc?export=view&id=1y33pY-TC0DPqWzMZTr0KyZQ6-67IMKdQ",
+    "https://drive.google.com/uc?export=view&id=1XcH94IVp5a2PUboTqr3PSfjMHfIalTfZ",
+    "https://drive.google.com/uc?export=view&id=1vSbGDOUiJvoVrTCgae6iFoIrJ2TbBf4U",
+    "https://drive.google.com/uc?export=view&id=1WW21iS4P80OB36LOj5CNFrzRkjnkQfFB",
+    "https://drive.google.com/uc?export=view&id=1F83v9ypml9nPk39ZCIwUUYNt7elRzNtG"
+  ],
+  "ClubQoute" :[
+    "<ClubQoute>"
+  ]
+ 
+}

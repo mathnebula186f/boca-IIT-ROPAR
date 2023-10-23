@@ -1,0 +1,103 @@
+{
+  "Name": "Aurturo",
+  "FieldName":"Photography",
+  "bgColor":"",
+  "LogoSrc": "https://drive.google.com/uc?export=view&id=1pUQvKyh4i4E7F3qtYWgxjirMXGaBhu3x",
+  "description": "This is the Chess Club at our university. We promote chess as a sport and organize tournaments and workshops for chess enthusiasts.",
+  "Team": [
+    {
+      "Name": "Manavaditya",
+      "Post": "Representative",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1L4CCg4YpDvzv6Xgqxdb2G3qFTSwwvAem",
+      "InstaHandle":"https://www.instagram.com/manavaditya_21/",
+      "LinkedInHandle":"https://www.linkedin.com/in/manavaditya-b05b8624b"
+    },
+    {
+      "Name": "Aryaman",
+      "Post": "Secretary",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1D3FGbFet6arm45TxivAQtP-G9IDcETyN",
+      "InstaHandle":"https://www.instagram.com/army.x_man/",
+      "LinkedInHandle":"https://www.linkedin.com/in/aryaman-gupta-4b0383227/"
+    },
+    {
+      "Name": "Pranjal",
+      "Post": "Advisor",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1Cke5HoSuVnP-FJAstK2xbq0akiMWa49R",
+      "InstaHandle":"https://www.instagram.com/pranjaltamta/",
+      "LinkedInHandle":"https://www.linkedin.com/in/pranjal-tamta-872809259"
+    },
+    {
+      "Name": "Prerna",
+      "Post": "Advisor",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=10KwYsL-V2PiQ1_LSoDOzoe3mUjn_BXAT",
+      "InstaHandle":"https://www.instagram.com/yaaimgopalbansal/",
+      "LinkedInHandle":"https://www.linkedin.com/in/gopal-bansal-a4050b229/"
+    },
+    {
+      "Name": "Swapnil",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=18lCfYj35IosCJggB4R5gHQ3x79y-FPC3",
+      "InstaHandle":"https://www.instagram.com/_swapnil_pandey_2210/",
+      "LinkedInHandle":"https://in.linkedin.com/in/swapnil-pandey-6655a7258"
+    },
+    {
+      "Name": "Kush",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1Sh59EUw6KOVm05u7bcO509KH5ycWuJnA",
+      "InstaHandle":"https://www.instagram.com/_.kush._28/",
+      "LinkedInHandle":"https://www.linkedin.com/in/kush-mahajan-54b55723a"
+    },
+    {
+      "Name": "Manas",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1SIvJTVXqXcwxDXxijLBzFpNFdHtb7yAT",
+      "InstaHandle":"https://www.instagram.com/manas_deorah/",
+      "LinkedInHandle":"https://www.linkedin.com/in/manas-deorah-585479256"
+    },
+    {
+      "Name": "Himanshi",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1W3MrVs5ve2ydE8YVKcY0X_ul4rAQnN3w",
+      "InstaHandle":"https://www.instagram.com/_himanshiwanjari_/",
+      "LinkedInHandle":"https://www.linkedin.com/in/himanshi-wanjari-333290256"
+    }
+    
+  ],
+  "InfoHeading":"Our Vision",
+  "InfoPoints": [
+    "Our focus is on building a nurturing space that empowers members to harness their creative potential in photography.",
+    "We encourage a range of viewpoints, styles, and techniques, promoting a rich diversity of photographic expression",
+    "Our aim is to unlock the full creative potential of each member through our supportive environment.",
+    " We cultivate an atmosphere where artistic expression knows no limitations or boundaries",
+    "We inspire innovation by welcoming experimentation and fresh approaches to photography",
+    " We create a community that values and supports the growth of each photographer.",
+    " Our vision is to elevate photography into a powerful medium for individual and collective artistic communication"
+  ],
+  "Images": [
+    "https://drive.google.com/uc?export=view&id=1agl6bPCb52abJShHln9OgMyhCHzg_Wno",
+    "https://drive.google.com/uc?export=view&id=1atMhD1q6A05GyH444sO97sHibCvS7ZA1",
+    "https://drive.google.com/uc?export=view&id=1am_K2zrpExTA1KhKqyuAddIvpkiMUsCY",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK"
+    
+  ],
+  "TeamImages":[
+    "https://drive.google.com/uc?export=view&id=1ZP9ZZMQD2N070Fubw84XiHGrxvu5g1O2",
+    "https://drive.google.com/uc?export=view&id=16WeTKMT1vublXjaWoTcOaf2Pcb-RZqcu",
+    "https://drive.google.com/uc?export=view&id=1w3qLwvuEXixg0jjEoZOxVTU2ztnB-dus",
+    "https://drive.google.com/uc?export=view&id=1voIo18Xytu6MpIjlVoCPv1I5i8fHyfII",
+    "https://drive.google.com/uc?export=view&id=1y33pY-TC0DPqWzMZTr0KyZQ6-67IMKdQ",
+    "https://drive.google.com/uc?export=view&id=1XcH94IVp5a2PUboTqr3PSfjMHfIalTfZ",
+    "https://drive.google.com/uc?export=view&id=1vSbGDOUiJvoVrTCgae6iFoIrJ2TbBf4U",
+    "https://drive.google.com/uc?export=view&id=1WW21iS4P80OB36LOj5CNFrzRkjnkQfFB",
+    "https://drive.google.com/uc?export=view&id=1F83v9ypml9nPk39ZCIwUUYNt7elRzNtG"
+  ],
+  "ClubQoute" :[
+    "Capturing Moments, Unveiling Artistry: Arturo"
+  ]
+}

@@ -8,6 +8,12 @@ import instagramIcon from "./images/instagram_icon.jpg";
 import linkedinIcon from "./images/linkedin_icon.jpg";
 
 const GenSecVision = () => {
+  const genSec2023 =
+    "https://drive.google.com/uc?export=view&id=1Igl2UkG5YGdteGuiakHxcVSjsVgX8WOB";
+  const genSec2022 =
+    "https://drive.google.com/uc?export=view&id=1ZGjcArKyYaGRlrZGtMHOrUNddutGTII5";
+  const genSec2021 =
+    "https://drive.google.com/uc?export=view&id=1YXnytgLipqkBeXYJ7GJLgxGZwTGp-JY4";
   const [selectedYear, setSelectedYear] = useState(2023); // Initially selecting 2023
   const [isInViewport, setIsInViewport] = useState(false);
 
@@ -67,10 +73,10 @@ const GenSecVision = () => {
               alt="General Secretary 2023"
               className="profile-pic"
             />
-            <h2> Gopal Bansal</h2>
+            <h2>Vaibhav Singla</h2>
             <div className="social-links">
               <a
-                href="https://www.instagram.com/gen_sec_2023"
+                href="https://www.instagram.com/va1bhav_/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -81,7 +87,7 @@ const GenSecVision = () => {
                 />
               </a>
               <a
-                href="https://www.linkedin.com/gen_sec_2023"
+                href="https://www.linkedin.com/in/vaibhav-singla-b4081122b/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -103,10 +109,10 @@ const GenSecVision = () => {
               alt="General Secretary 2022"
               className="profile-pic"
             />
-            <h2> Gopal Bansal</h2>
+            <h2>Yatin Saini</h2>
             <div className="social-links">
               <a
-                href="https://www.instagram.com/gen_sec_2022"
+                href="https://www.instagram.com/yatinsaini_2470/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -117,7 +123,7 @@ const GenSecVision = () => {
                 />
               </a>
               <a
-                href="https://www.linkedin.com/gen_sec_2022"
+                href="https://www.linkedin.com/in/yatin-saini-7221521b6/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -139,10 +145,10 @@ const GenSecVision = () => {
               alt="General Secretary 2021"
               className="profile-pic"
             />
-            <h2> Gopal Bansal</h2>
+            <h2> Ninad Sutrave</h2>
             <div className="social-links">
               <a
-                href="https://www.instagram.com/gen_sec_2021"
+                href="https://www.instagram.com/ninadsutrave/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -153,7 +159,7 @@ const GenSecVision = () => {
                 />
               </a>
               <a
-                href="https://www.linkedin.com/gen_sec_2021"
+                href="https://www.linkedin.com/in/ninadsutrave/"
                 target="_blank"
                 rel="noopener noreferrer"
               >

@@ -1,12 +1,8 @@
 import React, { useState } from "react";
 import "./Navbar.css";
 import logo from "./images/logo.jpg";
-import alankarLogo from "./images/Alankar-logo.jpg";
-import epicureLogo from "./images/Epicure-logo.jpg";
-import fineArtsLogo from "./images/FineArts-logo.jpg";
-import undekhaLogo from "./images/Undekha-logo.jpg";
-import arturoLogo from "./images/Aurturo-logo.jpg";
-import danceLogo from "./images/DanceClub-logo.jpg";
+
+
 
 const Navbar = () => {
   const [isMenuOpen, setMenuOpen] = useState(false);
@@ -23,10 +19,20 @@ const Navbar = () => {
   //Images
   const alankarLogo =
     "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK";
+  const epicureLogo =
+    "https://drive.google.com/uc?export=view&id=1wgu2Dd-awuF5ySYSyROqEV5y2r9iKh8W";
+  const fineArtsLogo =
+    "https://drive.google.com/uc?export=view&id=1pXP-G0wGk8i20WeoCv7em1E2my1AGR9j";
+  const undekhaLogo =
+    "https://drive.google.com/uc?export=view&id=1tDdtxPwhBA8c-4RzqjQjqv4xr8hLA8lj";
+  const arturoLogo =
+    "https://drive.google.com/uc?export=view&id=1pUQvKyh4i4E7F3qtYWgxjirMXGaBhu3x";
+  const danceLogo =
+    "https://drive.google.com/uc?export=view&id=1mEjlPnZDJ6emvNukYm6vl5bgYGBhsVAn";
 
 
   return (
-    <nav className="navbar">
+    <div className="navbar">
       <div className="navbar-container">
         <div className="navbar-logo-container">
           <img src={logo} alt="Logo" className="navbar-logo" />
@@ -48,27 +54,27 @@ const Navbar = () => {
             Clubs
             {isClubMenuOpen && (
               <div className="navbar-club-menu">
-                <a href="/club/alankar" className="navbar-club-link">
+                <a href="/Alankar" className="navbar-club-link">
                   <img src={alankarLogo} alt="Alankar Club" />
                   <span>Alankar Club</span>
                 </a>
-                <a href="/club/epicure" className="navbar-club-link">
+                <a href="/Epicure" className="navbar-club-link">
                   <img src={epicureLogo} alt="Epicure Club" />
                   <span>Epicure Club</span>
                 </a>
-                <a href="/club/fine-arts" className="navbar-club-link">
+                <a href="/FineArts" className="navbar-club-link">
                   <img src={fineArtsLogo} alt="FineArts Club" />
                   <span>FineArts Club</span>
                 </a>
-                <a href="/club/undekha" className="navbar-club-link">
+                <a href="/Undekha" className="navbar-club-link">
                   <img src={undekhaLogo} alt="Undekha Club" />
                   <span>Undekha Club</span>
                 </a>
-                <a href="/club/arturo" className="navbar-club-link">
+                <a href="/Aurturo" className="navbar-club-link">
                   <img src={arturoLogo} alt="Arturo Club" />
                   <span>Arturo Club</span>
                 </a>
-                <a href="/club/dance" className="navbar-club-link">
+                <a href="/Dance" className="navbar-club-link">
                   <img src={danceLogo} alt="Dance Club" />
                   <span>Dance Club</span>
                 </a>
@@ -83,7 +89,7 @@ const Navbar = () => {
           </a>
         </div>
       </div>
-    </nav>
+    </div>
   );
 };
 

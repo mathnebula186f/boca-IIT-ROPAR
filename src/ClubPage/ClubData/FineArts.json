@@ -1,0 +1,90 @@
+{
+  "Name": "Vibgyor",
+  "FieldName":"Arts",
+  "bgColor":"",
+  "LogoSrc": "https://drive.google.com/uc?export=view&id=1pXP-G0wGk8i20WeoCv7em1E2my1AGR9j",
+  "description": "This is the Chess Club at our university. We promote chess as a sport and organize tournaments and workshops for chess enthusiasts.",
+  "Team": [
+    {
+      "Name": "Hemang",
+      "Post": "Representative",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=10HZbYQEc5GlwgyNk-9aJ1hHIVVlDpeU3",
+      "InstaHandle":"https://instagram.com/hemang_tailor?igshid=NGExMmI2YTkyZg==",
+      "LinkedInHandle":"https://www.linkedin.com/in/hemang-tailor-7766b2253"
+    },
+    {
+      "Name": "Anmol",
+      "Post": "Secretary",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1lIpEtp_bnKpNmovadMoKUu38Qn1PLCXS",
+      "InstaHandle":"https://instagram.com/mr_precious_019?igshid=MzNlNGNkZWQ4Mg==",
+      "LinkedInHandle":"https://www.linkedin.com/in/anmol-chauhan-909183247"
+    },
+    {
+      "Name": "Ragini",
+      "Post": "Advisor",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1vBAzvwsc5shdPyFHZUR2s0zNtuCrVqi2",
+      "InstaHandle":"https://instagram.com/giniizzz_?igshid=MzNlNGNkZWQ4Mg==",
+      "LinkedInHandle":"https://www.linkedin.com/in/ragini-gupta-208a6b222"
+    },
+    {
+      "Name": "Hitesh",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1TbxO66EsmjBGCEHKioz8HqtsqhuVvKhg",
+      "InstaHandle":"https://www.instagram.com/hiteshrajan2003/",
+      "LinkedInHandle":"http://www.linkedin.com/in/hitesh-patange-65b264237"
+    },
+    {
+      "Name": "Smriti",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1lHCT3MTmX9fNbAN2JuIDMFC1JysF_nF4",
+      "InstaHandle":"https://instagram.com/smritigupta_26?igshid=MzNlNGNkZWQ4Mg==",
+      "LinkedInHandle":"https://www.linkedin.com/in/smriti-gupta-331785271"
+    },
+    {
+      "Name": "Hemlata",
+      "Post": "Coordinator",
+      "ImgSrc":"https://drive.google.com/uc?export=view&id=1AwMIDPUOQiw60qFjHoUsUP9DWk3n0PGx",
+      "InstaHandle":"https://www.instagram.com/hemlatagautam24/",
+      "LinkedInHandle":"https://www.linkedin.com/in/hemlata-gautam-167525257"
+    }
+  
+  ],
+  "InfoHeading":"Our Vision",
+  "InfoPoints": [
+    "Create a vibrant and inclusive community through the power of music",
+    "Enrich the lives of all participants by transcending boundaries",
+    "Foster a nurturing environment that encourages creativity and collaboration",
+    "Promote personal growth and development within the music community",
+    "Unite people from diverse backgrounds through the transformative power of music",
+    "Ignite a lifelong love for music in all members",
+    "Establish a lasting legacy that resonates within the hearts of our institute community for years to come"
+  ],
+  "Images": [
+    "https://drive.google.com/uc?export=view&id=1IACi6e7gU0qXNRPtdtba27oVzHCzJ1rh",
+    "https://drive.google.com/uc?export=view&id=1eaN8gigvFBHcGJJS13bI9WVS2GZfuDR3",
+    "https://drive.google.com/uc?export=view&id=1M5cgrYbuDMbJ1vh71rj8WxZK6AeYqPay",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK",
+    "https://drive.google.com/uc?export=view&id=1tF7lLYbLWT3BIKIoUuUr6hh6hb4TgCWK"
+    
+  ],
+  "TeamImages":[
+    "https://drive.google.com/uc?export=view&id=1ZP9ZZMQD2N070Fubw84XiHGrxvu5g1O2",
+    "https://drive.google.com/uc?export=view&id=16WeTKMT1vublXjaWoTcOaf2Pcb-RZqcu",
+    "https://drive.google.com/uc?export=view&id=1w3qLwvuEXixg0jjEoZOxVTU2ztnB-dus",
+    "https://drive.google.com/uc?export=view&id=1voIo18Xytu6MpIjlVoCPv1I5i8fHyfII",
+    "https://drive.google.com/uc?export=view&id=1y33pY-TC0DPqWzMZTr0KyZQ6-67IMKdQ",
+    "https://drive.google.com/uc?export=view&id=1XcH94IVp5a2PUboTqr3PSfjMHfIalTfZ",
+    "https://drive.google.com/uc?export=view&id=1vSbGDOUiJvoVrTCgae6iFoIrJ2TbBf4U",
+    "https://drive.google.com/uc?export=view&id=1WW21iS4P80OB36LOj5CNFrzRkjnkQfFB",
+    "https://drive.google.com/uc?export=view&id=1F83v9ypml9nPk39ZCIwUUYNt7elRzNtG"
+  ],
+  "ClubQoute" :[
+    "<ClubQoute>"
+  ]
+ 
+}
